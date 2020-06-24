@@ -3,19 +3,18 @@
 <br>
 
 <p align="center">
-Objective of the app
+The objective of this project is to create an open source multi-parameter monitor.
 </p>
 
-## 🏠Usage
-
-### Install
+## 🏠 Repository contents
 
 ```sh
-```
 
-### Usage
+/Documentation - Data sheets, papers and additional information.
+/Code - Code of XMonitor.
+/Hardware - The files were designed in Tinkercad and can be seen in the this url.
+/Libraries - Libraries for use with the XMonitor.
 
-```sh
 ```
 
 ### 🤔 How to contribute?
