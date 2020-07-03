@@ -6,14 +6,21 @@
 The objective of this project is to create an open source multi-parameter monitor.
 </p>
 
-## 🏠 Repository contents
+## 🏠 Repository content
 
 ```sh
 
 /Documentation - Data sheets, papers and additional information.
 /Code - Code of XMonitor.
-/Hardware - The files were designed in Tinkercad and can be seen in the this url.
 /Libraries - Libraries for use with the XMonitor.
+
+```
+
+## ⚙️ Hardware design
+
+```sh
+
+The files were designed using Tinkercad and can be seen in this [url](https://www.tinkercad.com/things/htogqot9jJ2-monitor-multiparametro).
 
 ```
 
@@ -50,7 +57,6 @@ After your pull request is merged, you can delete your branch.
 
 👤 **Rafael Teixeira Santos**
 
-- Website: 
 - Github: [@RafaelTSantos99](https://github.com/RafaelTSantos99)
 
 ## 🤝 Contributing
